@@ -6,7 +6,7 @@
 
 ## 📺 Screenshot
 
-👉 ![User Management API Screenshot](screenshot.png)
+👉 ![User Management API Screenshot](Screenshot.png)
 
 ---
 
