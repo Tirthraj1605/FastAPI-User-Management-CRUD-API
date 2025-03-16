@@ -1,6 +1,6 @@
 # ⚡ FastAPI User Management CRUD API
 
-**FastAPI User Management CRUD API** is a **high-performance, Python-based RESTful API** built with **FastAPI**, offering full **Create, Read, Update, Delete (CRUD)** operations for managing users. It uses **SQLite** as the database and SQLAlchemy ORM for seamless integration.
+**FastAPI User Management CRUD API** is a **high-performance, Python-based RESTful API** built with **FastAPI**, offering full **Create, Read, Update, Delete (CRUD)** operations for managing users.
 
 ---
 
