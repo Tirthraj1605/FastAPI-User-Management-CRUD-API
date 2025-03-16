@@ -1,6 +1,6 @@
 # ⚡ FastAPI User Management CRUD API
 
-**FastAPI User Management CRUD API** is a **high-performance, Python-based RESTful API** built with **FastAPI**, offering full **Create, Read, Update, Delete (CRUD)** operations for managing users.
+**FastAPI User Management CRUD API** is a **high-performance, Python-based RESTful API** built with **FastAPI**, offering full **Create, Read, Update, Delete (CRUD)** operations for managing users. It uses an **in-memory database (Python dictionary)** for lightweight and quick prototyping.
 
 ---
 
