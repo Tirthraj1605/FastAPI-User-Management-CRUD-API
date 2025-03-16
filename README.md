@@ -4,6 +4,12 @@
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Try the Live API on Render](https://fastapi-user-management-crud-api.onrender.com/docs)
+
+---
+
 ## 📺 Screenshot
 
 ![User Management API Screenshot](Screenshot.png)
