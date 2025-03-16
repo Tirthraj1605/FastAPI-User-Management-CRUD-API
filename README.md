@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-👉 [Try the Live API on Render](https://fastapi-user-management-crud-api.onrender.com/docs)
+👉 [Try the Live API](https://fastapi-user-management-crud-api.onrender.com/docs)
 
 ---
 
